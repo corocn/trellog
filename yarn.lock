@@ -3694,6 +3694,10 @@ neo-async@^2.5.0:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.5.0.tgz#76b1c823130cca26acfbaccc8fbaf0a2fa33b18f"
 
+netlify-identity-widget@^1.4.11:
+  version "1.4.11"
+  resolved "https://registry.yarnpkg.com/netlify-identity-widget/-/netlify-identity-widget-1.4.11.tgz#27fbea5302cd1a360547570ddc855fd0cb528e5a"
+
 netlify-lambda@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/netlify-lambda/-/netlify-lambda-0.2.0.tgz#37bb80febff21938908f02e14b9f378624b3b68e"
