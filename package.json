@@ -11,7 +11,8 @@
     "generate": "nuxt generate",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "precommit": "npm run lint",
-    "build-lambda": "netlify-lambda build src"
+    "build-lambda": "netlify-lambda build lambda",
+    "build-all": "yarn generate && yarn build-lambda"
   },
   "dependencies": {
     "netlify-lambda": "^0.2.0",
